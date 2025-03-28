@@ -24,7 +24,7 @@ Aquí encontrarás:
 </a> 
 
 <!-- Chino -->
-<a href="./README.zh-CN.md">
+<a href="README.md">
   <img src="https://img.shields.io/badge/简体中文-🇨🇳-red?style=for-the-badge&logo=openaccess&logoColor=white" height="40">
 </a> 
 

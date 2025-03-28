@@ -19,7 +19,7 @@ Here you'll witness:
 <div align="center">
 
 <!-- Chinese -->
-<a href="./README.zh-CN.md" style="text-decoration: none;">
+<a href="README.md" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/简体中文-🇨🇳-red?style=for-the-badge&logo=openaccess&logoColor=white" height="40">
 </a> 
 

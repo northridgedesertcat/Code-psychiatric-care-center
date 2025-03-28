@@ -18,7 +18,7 @@
 <div align="center">
 
 <!-- 中文版跳转卡片 -->
-<a href="README.zh-CN.md" style="text-decoration: none;">
+<a href="README.md" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/简体中文-🇨🇳-red?style=for-the-badge&logo=openaccess&logoColor=white" alt="简体中文" height="40">
 </a>  
 
