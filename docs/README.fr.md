@@ -2,7 +2,11 @@
 
 "Ici chaque ligne de code peut vous donner des abdos... ou casser votre clavier - Ayez un défibrillateur à portée de main 💔"  
 
-![Légende inutile](giphy.gif)
+<div align="center">
+
+![这是废话](giphy.gif)
+</div>
+
 
 # 🤖 Projet : Quand le Code a un TDAH  
 

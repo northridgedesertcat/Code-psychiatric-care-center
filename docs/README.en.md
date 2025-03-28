@@ -2,7 +2,11 @@
 
 "Where every line of code might give you abs from laughing... or break your keyboard - Adult diapers recommended 🩹"  
 
-![This Caption is Useless](giphy.gif)
+<div align="center">
+
+![这是废话](giphy.gif)
+</div>
+
 
 # 🤖 Project Introduction: When Code Gets ADHD  
 

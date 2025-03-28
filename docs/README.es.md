@@ -2,7 +2,11 @@
 
 "Cada línea de código aquí puede darte abdominales de tanto reír... o romper tu teclado - Recomendamos tener un extintor cerca 🔥"  
 
-![Descripción inútil](giphy.gif)
+<div align="center">
+
+![这是废话](giphy.gif)
+</div>
+
 
 # 🤖 Proyecto: Cuando el Código Tiene TDAH  
 
