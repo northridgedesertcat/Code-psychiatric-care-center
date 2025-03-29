@@ -23,20 +23,23 @@ sleepTime=0
 
 #是否播放声音
 playsounds=True
-#播放的音乐数量，比如可以分为背景音与人声，也可以之播放一个
-morePlay=False
-#音乐类型仅支持wav
-soundBackground=Logics.resource_path("wavs/batty.mp3")
-soundGhost=Logics.resource_path("wavs/lau.wav")
 
+#音乐类型仅支持wav
+soundBackground=Logics.resource_path("wavs/lau.wav")
+
+
+#开始之前弹一张图片
+photoPath=Logics.resource_path("wavs/22.webp")
+showPhoto=True
+#图片占屏幕的大小比例
+max_occupancy=0.8
 
 
 if __name__=="__main__":
     sleep(sleepTime)
+    if showPhoto:
+        Logics.showPhotos(photoPath,max_occupancy)
     if playsounds:
         t=Thread(target=Logics.playsounds, args=(soundBackground,))
         t.start()
-        if morePlay:
-            t2 = Thread(target=Logics.play_effect_sound, args=(soundGhost,))
-            t2.start()
     Logics.move_mouse(screen_width, screen_height)
